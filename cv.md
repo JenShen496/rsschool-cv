@@ -5,9 +5,9 @@
 * E-mail: EvgeniaZelenina@yandex.ru   
 * GitHub: [JenShen496](https://github.com/JenShen496)   
 * Discord: @jenshen496
-## About me   
+## About me
 I work in the labor trade. My responsibilities include laying out goods, checking deadlines, inventorying goods, price tags, photo reports. The work is quite nervous and hard, and it’s not that I feel in my place. I would like to try myself in other areas. Of my strengths, I can single out: responsibility, stress resistance, sociability and adaptability.
-## Skills   
+## Skills
 * HTML   
 * SCC    
 ## Code Example    
@@ -25,4 +25,4 @@ secondary education
 ## English
 A2 (reading is better for me than listening)   
 ## Projects 
-[CV](https://github.com/JenShen496/rsschool-cv/blob/main/cv.md)
+[CV](https://jenshen496.github.io/rsschool-cv/cv)
