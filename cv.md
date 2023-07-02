@@ -25,4 +25,4 @@ secondary education
 ## English
 A2 (reading is better for me than listening)   
 ## Projects 
-[CV](https://jenshen496.github.io/rsschool-cv/cv)
+[CV](https://github.com/JenShen496/rsschool-cv/blob/gh-pages/cv.md)
